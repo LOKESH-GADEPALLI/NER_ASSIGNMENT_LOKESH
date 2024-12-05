@@ -9,8 +9,8 @@ The requirement is to build a custom NER to get the list of diseases and their t
 
 ### Solution
 
-The solution  for the problem statement, focusing on the system design required for hosting a custom NER Model\
-
+The solution  for the problem statement, focusing on the system design required for hosting a custom NER Model.
+The predicted treatment of hereditary retinoblastoma is radiotherapy as per our model
 ## Contact
 
 Created by [@GADEPALLI LOKESH] - feel free to contact me!
